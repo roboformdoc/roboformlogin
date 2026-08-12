@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roboformlogin.readthedocs.io/en/latest/
